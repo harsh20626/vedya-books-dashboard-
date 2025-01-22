@@ -61,5 +61,6 @@ st.markdown("""
 </style>
 """, unsafe_allow_html=True)
 
-st.write("Upload your book images in the respective folders to display them here.")
+st.write("Contacts: 9315791917")
+st.write("instagram: @VedyaBooks")
 st.write("Note: Ratings are not official and are based on customer reviews.")
